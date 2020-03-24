@@ -1,10 +1,12 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+#include <queue>
 #if defined(__unix__) || defined(__APPLE__)
 #include <sys/resource.h>
 #endif
 
+using namespace std;
 class Node;
 
 class Node {
@@ -40,14 +42,25 @@ int main_with_large_stack_space() {
   }
 
   // Replace this code with a faster implementation
+  
+
   int maxHeight = 0;
-  for (int leaf_index = 0; leaf_index < n; leaf_index++) {
-    int height = 0;
-    for (Node *v = &nodes[leaf_index]; v != NULL; v = v->parent)
-      height++;
-    maxHeight = std::max(maxHeight, height);
+  vector<int> heights(n);
+  fill(heights.begin(), heights.end(), 0);
+
+  for (int leaf_index=0; leaf_index<n; leaf_index++){
+      int height = 0;
+      int location;
+      for(Node *v = &nodes[leaf_index]; v!=NULL; v=v->parent){
+          location = v - &nodes[0];
+          if(heights[location]!=0){
+              break;
+          }
+          height++;
+      }
+      heights[leaf_index] = height + heights[location];
+      maxHeight = max(maxHeight, heights[leaf_index]);
   }
-    
   std::cout << maxHeight << std::endl;
   return 0;
 }

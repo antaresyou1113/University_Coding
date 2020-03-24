@@ -14,11 +14,16 @@ class TreeHeight:
                 maxHeight = 0
                 for vertex in range(self.n):
                         height = 0
+                        heights = [0 for i in range(len(self.parent))]
                         i = vertex
                         while i != -1:
-                                height += 1
-                                i = self.parent[i]
-                        maxHeight = max(maxHeight, height);
+                            location = i - 0;
+                            if heights[location] != 0:
+                                break
+                            height += 1
+                            i = self.parent[i]
+                        heights[vertex] = height + heights[location]
+                        maxHeight = max(maxHeight, heights[vertex]);
                 return maxHeight;
 
 def main():

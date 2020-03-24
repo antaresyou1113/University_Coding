@@ -10,10 +10,16 @@ def compute_height(n, parents):
     for vertex in range(n):
         height = 0
         current = vertex
+        heights = [0 for i in range(len(parents))]
         while current != -1:
+            location = current - 0
+            if heights[location] != 0:
+                break 
             height += 1
+            
             current = parents[current]
-        max_height = max(max_height, height)
+        heights[vertex] = height + heights[location]
+        max_height = max(max_height, heights[vertex])
     return max_height
 
 
