@@ -1,0 +1,16 @@
+[I 14:42:36.199 NotebookApp] Serving notebooks from local directory: /Users/jingmaoyou/Documents/CodingUniversity/python_coding
+[I 14:42:36.199 NotebookApp] The Jupyter Notebook is running at:
+[I 14:42:36.199 NotebookApp] http://localhost:8888/?token=2f7211a0246c3e26ecce42140cffb87276c7c2de259982ca
+[I 14:42:36.199 NotebookApp]  or http://127.0.0.1:8888/?token=2f7211a0246c3e26ecce42140cffb87276c7c2de259982ca
+[I 14:42:36.199 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:42:36.207 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/jingmaoyou/Library/Jupyter/runtime/nbserver-1827-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=2f7211a0246c3e26ecce42140cffb87276c7c2de259982ca
+     or http://127.0.0.1:8888/?token=2f7211a0246c3e26ecce42140cffb87276c7c2de259982ca
+[I 14:43:01.476 NotebookApp] Creating new notebook in 
+[I 14:43:02.254 NotebookApp] Kernel started: 0e7afc1b-f372-42c7-9acf-7d827fee992e
+[W 14:43:02.268 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200409144235 (::1) 10.79ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:43:10.487 NotebookApp] Saving file at /Untitled.ipynb
