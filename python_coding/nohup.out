@@ -14,3 +14,117 @@
 [I 14:43:02.254 NotebookApp] Kernel started: 0e7afc1b-f372-42c7-9acf-7d827fee992e
 [W 14:43:02.268 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200409144235 (::1) 10.79ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
 [I 14:43:10.487 NotebookApp] Saving file at /Untitled.ipynb
+[W 14:47:48.663 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200409144235 (::1) 1.23ms referer=http://localhost:8888/notebooks/house_prices.ipynb
+[I 15:18:30.939 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 15:18:32.829 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 15:36:07.982 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 15:36:09.450 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 17:16:03.547 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 17:16:05.882 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 18:07:44.255 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 18:07:45.411 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 18:17:08.549 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 18:17:09.824 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 19:45:20.467 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 19:45:22.015 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 21:49:37.585 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 21:49:39.120 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:00:33.822 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:00:35.187 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:06:45.667 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:06:47.104 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:37:01.810 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 22:37:03.605 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 23:36:09.225 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 23:36:10.238 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 01:02:38.187 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 01:02:39.941 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 09:29:49.091 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 09:29:50.729 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:00:53.499 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:00:55.728 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:04:33.708 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:04:35.914 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:20:29.836 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:20:31.805 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:25:03.860 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 10:25:06.050 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 11:05:03.187 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 11:05:04.534 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 11:11:18.050 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 11:11:20.008 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 13:16:09.318 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 13:16:10.492 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 13:23:56.406 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 13:23:58.185 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 14:03:52.813 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 14:03:54.558 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 15:58:16.645 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 15:58:18.280 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 16:21:24.327 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 16:21:25.641 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 16:52:10.230 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:52:10.233 NotebookApp] Serving notebooks from local directory: /Users/jingmaoyou/Documents/CodingUniversity/python_coding
+[I 16:52:10.233 NotebookApp] The Jupyter Notebook is running at:
+[I 16:52:10.233 NotebookApp] http://localhost:8889/?token=6672e4d1d79f0ea160d39d5e73f8606d3bacff79369cf7b2
+[I 16:52:10.233 NotebookApp]  or http://127.0.0.1:8889/?token=6672e4d1d79f0ea160d39d5e73f8606d3bacff79369cf7b2
+[I 16:52:10.233 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:52:10.240 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/jingmaoyou/Library/Jupyter/runtime/nbserver-6817-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=6672e4d1d79f0ea160d39d5e73f8606d3bacff79369cf7b2
+     or http://127.0.0.1:8889/?token=6672e4d1d79f0ea160d39d5e73f8606d3bacff79369cf7b2
+[I 16:52:12.150 NotebookApp] Kernel started: 570c114e-be5e-4fa9-b23b-14a8d591d399
+[W 16:52:13.215 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200410165210 (::1) 9.50ms referer=http://localhost:8889/notebooks/house_prices.ipynb
+[I 16:53:44.515 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:fcd9af6ea38b45c7b71b418c382b6f41
+[I 16:55:44.807 NotebookApp] Saving file at /house_prices.ipynb
+[I 16:57:45.542 NotebookApp] Saving file at /house_prices.ipynb
+[I 16:58:34.745 NotebookApp] Saving file at /house_prices.ipynb
+[I 16:58:53.586 NotebookApp] Saving file at /house_prices.ipynb
+[I 16:59:44.793 NotebookApp] Saving file at /house_prices.ipynb
+[I 17:01:44.791 NotebookApp] Saving file at /house_prices.ipynb
+[I 17:03:44.794 NotebookApp] Saving file at /house_prices.ipynb
+[I 17:05:44.796 NotebookApp] Saving file at /house_prices.ipynb
+[I 17:14:59.048 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 17:14:59.049 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 17:15:00.108 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 17:15:00.371 NotebookApp] Restoring connection for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 17:53:08.325 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:07:08.117 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:09:07.670 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:09:43.525 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:11:08.221 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:11:30.981 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:11:32.793 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:13:07.682 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:14:37.937 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:15:08.322 NotebookApp] Saving file at /house_prices.ipynb
+[I 18:16:11.609 NotebookApp] Saving file at /house_prices.ipynb
+[I 19:29:08.356 NotebookApp] Saving file at /house_prices.ipynb
+[I 19:55:07.706 NotebookApp] Saving file at /house_prices.ipynb
+[I 19:57:08.029 NotebookApp] Saving file at /house_prices.ipynb
+[I 19:59:08.410 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:01:08.035 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:03:08.293 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:09:07.724 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:11:08.281 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:13:08.454 NotebookApp] Saving file at /house_prices.ipynb
+[I 20:29:07.721 NotebookApp] Saving file at /house_prices.ipynb
+[I 21:04:31.254 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 21:04:31.255 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 21:04:32.438 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 21:04:32.475 NotebookApp] Restoring connection for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 23:04:56.428 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 23:04:56.429 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 23:04:58.070 NotebookApp] Restoring connection for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 23:04:58.070 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 00:04:52.185 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 00:04:52.185 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 00:04:53.564 NotebookApp] Restoring connection for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[I 00:04:53.564 NotebookApp] Restoring connection for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 00:36:13.114 NotebookApp] Starting buffering for 570c114e-be5e-4fa9-b23b-14a8d591d399:a696ecb149fe4b258634aaf7686da120
+[I 00:36:13.290 NotebookApp] Starting buffering for 0e7afc1b-f372-42c7-9acf-7d827fee992e:6e7da554f8e54ae78b06213c8916df67
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
