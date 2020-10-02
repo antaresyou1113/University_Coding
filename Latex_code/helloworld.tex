@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage[hyphens,spaces,obeyspaces]{url}
+\usepackage[colorlinks,allcolors=blue]{hyperref}
+\title{Working notes}
+\date{2020-04-21}
+\author{jingmao you}
+\begin{document}
+ \pagenumbering{gobble}
+ \maketitle
+ \newpage
+ \pagenumbering{arabic}
+
+ \section{Whe storage of information }
+All the information is extracted from jCas. 
+\newline
+After the KNOWNER pipeline, there will be named entities as the output. 
+
+\section{What to do next}
+The goal is to insert an jCas object, in order to run the aida analysis engine. 
+\newline
+This object should contain the same type of output as KNOWNER pipeline. 
+\newline
+Build a new pipeline, containing only Aida pipeline.
+The input should be named enetities, which contains all the information that we need.
+
+\section{How to build named entities?}
+In order to see the named entities, I take a lood at the KnowNERIntegrationTest: \href{https://github.com/ambiverse-nlu/ambiverse-nlu/blob/341dc62abf47396aa04e6d0ca7c9e071b5d5b06e/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/ner/KnowNERIntegrationTest.java}{KnowNERIntegrationTest}
+\newline
+From the testing file, it builds the document first, then it pass it to documentprocessor.
+Document processor will process the document, and build the jCas instance.
+The named entites could be extracted from the jCas.
+
+\section{The document processor}
+\begin{itemize}
+	\item create jCas using JCasFactory
+	\item addSettings to jCas
+	\item set the document into jCas
+    \item process jCas 
+\end{itemize}
+
+
+\section{The related links}
+\begin{itemize}
+  \item \href{https://uima.apache.org/d/uimaj-current/apidocs/org/apache/uima/jcas/JCas.html}{JCas}
+  \item \href{https://github.com/ambiverse-nlu/ambiverse-nlu/blob/341dc62abf47396aa04e6d0ca7c9e071b5d5b06e/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/entitylinking/processor/DocumentProcessor.java}{DocumentProcessor}
+  \item \href{https://github.com/ambiverse-nlu/ambiverse-nlu/blob/341dc62abf47396aa04e6d0ca7c9e071b5d5b06e/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/ner/KnowNER.java}{KNOWNER}
+  \item \href{https://github.com/ambiverse-nlu/ambiverse-nlu/blob/341dc62abf47396aa04e6d0ca7c9e071b5d5b06e/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/entitylinking/uima/pipelines/DisambiguationPipeline.java}{Disambiguation testing code}
+\end{itemize}
+
+
+\end{document}
